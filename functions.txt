@@ -1,0 +1,6 @@
+1. JS Classes
+2. Convert a Function to a Class
+3. Super and Extends
+4. Extending Classes from ES5 to ES6
+5. Working with JS Subclasses
+

@@ -1,0 +1,8 @@
+1. let, constant
+2. Template Literals
+3. Destructuring
+4. Object Literal Shorthand
+5. Iteration, For...of Loop
+6. Spread... Operator
+7. ...Rest Parameter
+
